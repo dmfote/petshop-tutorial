@@ -13,6 +13,9 @@ Truffle Petshop tutorial for the HR/CELA Blokchain Workshop.
 
 •	Ganache: https://github.com/trufflesuite/ganache/releases/download/v2.0.0/Ganache-2.0.0.appx
 
+#### Install Windows Build Tools from Powershell (Admin) ####
+```npm install --global windows-build-tools```
+
 
 
 #### Steps to fill out Adoption.sol
